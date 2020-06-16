@@ -1,0 +1,21 @@
+/* html, body, #root {
+  height: 100%;
+  width: 100%;
+} */
+
+.header{
+  height: 200px;
+}
+
+.text-header{
+  margin-top: 100px;
+}
+
+.todo-header {
+  height: 120px;
+  background-color: #00a8ff;
+}
+
+.todo-body {
+  height: 400px;
+}
